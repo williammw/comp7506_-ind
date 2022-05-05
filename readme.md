@@ -14,3 +14,15 @@ click reset to reset all number
 <img src="./img/3.PNG" width="400">
 
 <img src="./img/4.PNG" width="400">
+
+# how to start 
+## you need expo with react-native
+```
+npm install -g expo-cli
+
+```
+## how to start the project
+```
+expo start
+```
+## you can scan the qrcode and start using the app.
